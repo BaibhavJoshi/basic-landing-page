@@ -7,3 +7,6 @@ To do:
   > Make things responsive.
   
   > Add some JS functionality.
+
+
+Check it out here : [basic-landing-page](https://baibhavjoshi.github.io/basic-landing-page/)
